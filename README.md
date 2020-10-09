@@ -28,6 +28,7 @@ This Repo (in the future) will contain project structure for various Frameworks 
 
 6 Happy Coding.
 
+- For a detailed explanation, [Click Here](CONTRIBUTING.md)
 ### Language?
 
 `Python`
