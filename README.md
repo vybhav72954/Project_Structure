@@ -4,11 +4,11 @@ by *Vybhav Chaturvedi* [LinkedIn](https://www.linkedin.com/in/vybhav-chaturvedi-
 
 ## What?
 
-Project Structure is a basic need in order to meet the guidelines of various Open SOurce communities. Moreover, it is usually a good idea to make sure that your project has a proper structure.
+Project Structure is a basic need in order to meet the guidelines of various Open Source communities. Moreover, it is usually a good idea to make sure that your project has a proper structure.
 
 This Repo (in the future) will contain project structure for various Frameworks (Django, Flask, React, Angular, etc).
 
-### Timline
+### Timeline
 
 * 05-Oct-2020
 
